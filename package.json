@@ -18,7 +18,7 @@
   "devDependencies": {
     "chai": "4.3.4",
     "google-closure-compiler": "20160315.2.0",
-    "google-closure-library": "20160315.0.0",
+    "google-closure-library": "20200315.0.0",
     "gulp": "4.0.2",
     "gulp-clean-css": "4.3.0",
     "gulp-closure-compiler": "0.4.0",
